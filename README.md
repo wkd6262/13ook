@@ -2,10 +2,10 @@
 ## TEAM: 13ook 📚 ##
 * 리더: 장원준 <br/>
 * 팀원: 권지민<br/>
-  <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/9d711c6f-3d66-4fc3-9ba6-70a6805f9758"/>
+  <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/9d711c6f-3d66-4fc3-9ba6-70a6805f9758" style="border-radius: 50%;"/>
 * 팀원: 김민재<br/>
-  <div width="200px" border-radius="50px" background-color="blue" >
-  <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f"/>
+  <div style="width: 200px; border-radius: 50px; background-color: blue; overflow: hidden;">
+    <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f" style="border-radius: 50%;"/>
   </div>
 * 역할분담
   * Github 관리: 장원준
