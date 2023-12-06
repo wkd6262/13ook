@@ -3,7 +3,8 @@
 * 리더: 장원준 <br/>
 * 팀원: 권지민<br/>
   <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/9d711c6f-3d66-4fc3-9ba6-70a6805f9758"/>
-* 팀원: 김민재
+* 팀원: 김민재<br/>
+  <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f"/>
 * 역할분담
   * Github 관리: 장원준
   * Notion 관리, 작업기록자: 권지민
