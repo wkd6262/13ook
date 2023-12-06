@@ -1,7 +1,8 @@
 # 13ook 📚
 ## TEAM: 13ook 📚 ##
 * 리더: 장원준
-* 팀원: 권지민, 김민재
+* 팀원: 권지민 (https://github.com/13ook/13ook/assets/142865132/9d711c6f-3d66-4fc3-9ba6-70a6805f9758)
+* 팀원: 김민재
 * 역할분담
   * Github 관리: 장원준
   * Notion 관리, 작업기록자: 권지민
