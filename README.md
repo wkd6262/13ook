@@ -27,7 +27,7 @@
 ### - 역할 분담
 
 <details>
-  <summary> 내용 작성 필요
+  <summary> 내용 작성 필요</summary>
   
   <br/>
 
@@ -62,7 +62,7 @@
 ###  초기 개발 진행방식 
 
 <details>
-  <summary> 내용 작성 필요
+  <summary> 내용 작성 필요</summary>
   
   <br/>
 
