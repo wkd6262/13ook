@@ -26,6 +26,17 @@
 
 ### - 역할 분담
 
+<details>
+  <summary> 내용 작성 필요
+  
+  <br/>
+
+<h align="center">여기도 작성 필요</h>
+
+<br/>
+
+</details>
+
 ### - 기술 스택
 
 <h4>⚙️  사용 기술</h4>
@@ -50,6 +61,16 @@
 
 ###  초기 개발 진행방식 
 
+<details>
+  <summary> 내용 작성 필요
+  
+  <br/>
+
+<h align="center">여기도 작성 필요</h>
+
+<br/>
+
+</details>
 
 
 
