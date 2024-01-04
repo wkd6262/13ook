@@ -11,13 +11,11 @@
 도서별 짧은 리뷰와 책 속 명언을 적을 수 있는 하이라이트 페이지를 통해 다양하게 활용할 수 있는 서비스 입니다.</p>
 
 ### - 팀원소개
-* 리더: 장원준 <br/>
-* 팀원: 권지민<br/>
-  <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/9d711c6f-3d66-4fc3-9ba6-70a6805f9758"/>
-* 팀원: 김민재<br/>
-  <div width="200px" border-radius="50px" background-color="blue" >
-  <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f"/>
-  </div>
+|장원준|권지민|김민재|
+|---|---|---|
+|<img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f"/>| <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/9d711c6f-3d66-4fc3-9ba6-70a6805f9758"/>|<img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f"/>|
+
+
 * 역할분담
   * Github 관리: 장원준
   * Notion 관리, 작업기록자: 권지민
