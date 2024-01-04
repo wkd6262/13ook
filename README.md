@@ -10,7 +10,7 @@
 <p>자신이 읽은 책에 대해 종이와 펜이 없더라도 언제 어디서든 편히 생각을 기록할 수 있으며,
 도서별 짧은 리뷰와 책 속 명언을 적을 수 있는 하이라이트 페이지를 통해 다양하게 활용할 수 있는 서비스 입니다.</p>
 
-<h4>🌟  사용 기술</h4>
+<h4>🌟  프로젝트 목표</h4>
 
 ```
   [📖] 알라딘 API를 활용하여 데이터를 출력한다.<br/>
@@ -18,20 +18,40 @@
   [🧾] 출력 된 값을 통해 도서를 기록, 저장한다.<br/>
   [📔] 도서 기록 시 닉네임, 작성 시간, 한 줄 리뷰, 책표지를 보여주는 화면을 출력한다.
 ```
-
-
-### - 개발 환경
-<h4>⚙️  사용 기술</h4>
-
-| FrontEnd | BackEnd | Design | Tools | 컨벤션 |
-| :----: | :----: | :----: | :----: | :----: |
-| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-CC6699?style=flat-square&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"> | <img src="https://img.shields.io/badge/REST API-000000?style=flat-square&logo=logoColor=white"> <img src="https://img.shields.io/badge/nodedotjs-green.svg?style=flat-square&logo=nodedotjs&logoColor=black"> <img src="https://img.shields.io/badge/express-red.svg?style=flat-square&logo=express&logoColor=black"> | <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"> | <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-square&logo=Prettier&logoColor=black"> <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-square&logo=ESLint&logoColor=white"> |
-
-### - 팀원소개
+### - 팀원 소개
 |장원준|권지민|김민재|
 |---|---|---|
 |<img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f"/>| <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/9d711c6f-3d66-4fc3-9ba6-70a6805f9758"/>|<img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f"/>|
 |Github 관리|Notion 관리|발표 및 자료관리|
+
+### - 역할 분담
+
+### - 기술 스택
+
+<h4>⚙️  사용 기술</h4>
+
+| FrontEnd | BackEnd | Design | Tools |
+| :----: | :----: | :----: | :----: |
+| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-CC6699?style=flat-square&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/axios-7F2B7B?style=flat-square&logo=axios&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"> | <img src="https://img.shields.io/badge/REST API-000000?style=flat-square&logo=logoColor=white"> <img src="https://img.shields.io/badge/nodedotjs-green.svg?style=flat-square&logo=nodedotjs&logoColor=black"> <img src="https://img.shields.io/badge/express-red.svg?style=flat-square&logo=express&logoColor=black"> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"> | 
+
+
+## 2. 개발 일정 및 진행 방식  
+
+### - 개발 일정
+
+  프로젝트 기획 2023.12.01 ~ 2023.12.06 <br/>
+  프로젝트 개발: 2023.12.07 ~ 2023.12.20
+
+###  스크럼
+
+- 1주차 이후 매일 오후 개별 작업 파일 공동으로 합치기
+- 20시 개별 작업 중 미해결 코드가 있을 경우 디스코드를 통해 의견 공유 및 문제 해결
+- 매주 주말 스터디 및 문제사항 정
+
+###  초기 개발 진행방식 
+
+
+
 
 
 # 231201
