@@ -13,9 +13,9 @@
 ### - 팀원소개
 |장원준|권지민|김민재|
 |---|---|---|
-|Github 관리|Notion 관리|발표 및 자료관리|
-|<img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f"/>| <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/9d711c6f-3d66-4fc3-9ba6-70a6805f9758"/>|<img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f"/>|
 
+|<img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f"/>| <img width="100px" src="https://github.com/13ook/13ook/assets/142865132/9d711c6f-3d66-4fc3-9ba6-70a6805f9758"/>|<img width="100px" src="https://github.com/13ook/13ook/assets/142865132/2e733434-5e0e-4ef4-bc54-a0e508bfd25f"/>|
+|Github 관리|Notion 관리|발표 및 자료관리|
 
 * 목표<br/>
   [📖] 알라딘 API를 활용하여 데이터를 출력한다.<br/>
