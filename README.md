@@ -37,6 +37,8 @@
 
 </details>
 
+<br/>
+
 ## 2. 개발 일정 및 진행 방식  
 
 ### - 개발 일정
@@ -63,6 +65,8 @@
 
 </details>
 
+<br/>
+
 ## 3. 기술 및 개발 환경  
 
 <h4>⚙️  사용 기술</h4>
@@ -72,11 +76,41 @@
 | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-CC6699?style=flat-square&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/axios-7F2B7B?style=flat-square&logo=axios&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"> | <img src="https://img.shields.io/badge/REST API-000000?style=flat-square&logo=logoColor=white"> <img src="https://img.shields.io/badge/nodedotjs-green.svg?style=flat-square&logo=nodedotjs&logoColor=black"> <img src="https://img.shields.io/badge/express-red.svg?style=flat-square&logo=express&logoColor=black"> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"> | 
 
 
+<h4>- 기술스택 적용 이유</h4>
 
+### 📌 axios 라이브러리를 통한 서버통신 관리
+* 작성
+* 필요
 
+### 📌  express 프레임워크를 사용한 이유
+* 작성
+* 필요
 
+### 📌 mongoDB를 이용한 데이터 저
+* 작성
+* 필요
 
+## 4. 주요 기능
 
+- ####  도서 추천 및 정보 제공
+
+  알라딘 API를 활용하여 사용자에게 최신 베스트셀러 및 신간 도서 정보를 제공. 이를 통해 사용자는 독서에 대한 다양한 옵션을 쉽게 찾아볼 수 있다.
+
+- ####  도서 검색 기능
+
+  사용자가 원하는 책을 빠르게 찾을 수 있는 검색 기능을 구현. 카테고리 별 검색을 활용하여 특정 도서를 쉽게 찾아볼 수 있습니다.
+
+- ####  한 줄 리뷰 작성
+
+  책 상세 페이지에서 사용자가 짧고 간편하게 리뷰를 작성할 수 있는 기능을 제공합. 이를 통해 사용자는 짧은 리뷰를 통해 도서에 대한 별점을 공유할 수 있습니다.
+
+- ####  하이라이트 작성
+
+  사용자가 도서 내용 중에서 마음에 드는 글귀를 간편하게 작성하고 저장할 수 있는 기능을 제공. 사용자는 독서 중에 감명깊은 구절을 쉽게 찾아볼 수 있다.
+
+- ####  카테고리 별 저장
+
+  사용자가 자신의 현재 도서 상황에 맞는 도서 저장 카테고리 설정할 수 있는 기능을 제공. 이를 통해 사용자는 저장별 도서를 한눈에 확인 가.
 
 
 
