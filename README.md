@@ -31,7 +31,7 @@
   
   <br/>
 
-<h align="center">여기도 작성 필요</h>
+<h align="center">[여기도 작성 필요]</h>
 
 <br/>
 
@@ -66,7 +66,7 @@
   
   <br/>
 
-<h align="center">여기도 작성 필요</h>
+<h align="center">[여기도 작성 필요]</h>
 
 <br/>
 
