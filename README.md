@@ -25,10 +25,6 @@
 |Github 관리|Notion 관리|발표 및 자료관리|
 
 ### - 역할 분담
-
-<details>
-  <summary> 내용 작성 필요</summary>
-  
   <br/>
 
   | ... | 페이지 |기능 구현|
