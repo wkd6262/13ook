@@ -42,14 +42,14 @@
 
 | 로그인                                                 | 메인                                                             |
 | ------------------------------------------------------ | ----------------------------------------------------------------- |
-| ![Nov-07-2023 17-32-29](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/63e36829-3a5b-4cfe-9eda-1b87a68bcb26) | ![main](https://github.com/13ook/13ook/assets/142865132/b66d73e9-3310-4af1-8e1b-75d83d49bf5e) |
+| <img src="https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/63e36829-3a5b-4cfe-9eda-1b87a68bcb26" width="200"> | <img src="https://github.com/13ook/13ook/assets/142865132/b66d73e9-3310-4af1-8e1b-75d83d49bf5e" width="200"> |
 | 피드                                             | 검색                                                     |
-| ![feed](https://github.com/13ook/13ook/assets/142865132/48ef9e93-5e63-46e1-b51e-94ab10d2bbac)| ![search](https://github.com/13ook/13ook/assets/142865132/e35289f5-ab5e-4143-86d3-978995fd67cf) |
+| <img src="https://github.com/13ook/13ook/assets/142865132/48ef9e93-5e63-46e1-b51e-94ab10d2bbac" width="200"> | <img src="https://github.com/13ook/13ook/assets/142865132/e35289f5-ab5e-4143-86d3-978995fd67cf" width="200"> |
 | 책방                                              | 내 서재                                                                 |
-| ![books](https://github.com/13ook/13ook/assets/142865132/f3fb2d39-e728-45d3-98dc-37622db0c16b) | ![mybook](https://github.com/13ook/13ook/assets/142865132/9c7ad68b-3d9c-425d-b505-77794135788a)
- |
+| <img src="https://github.com/13ook/13ook/assets/142865132/f3fb2d39-e728-45d3-98dc-37622db0c16b" width="200"> | <img src="https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/68c5e87c-b124-4333-bc53-7b307f2adef7" width="200"> |
 
 <br />
+
 
 <br/>
 
