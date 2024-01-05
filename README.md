@@ -40,9 +40,6 @@
 
 ### - 핵심기능 시연
 
-| splash                                                 | 회원가입                                                             |
-| ------------------------------------------------------ | -------------------------------------------------------------------- |
-| ![Nov-07-2023 17-08-53](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/010e91f7-28ba-4048-9070-ac70e3b8edff) | ![Nov-07-2023 17-14-24](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/737a5fa0-957b-4a83-a9c3-60bb65316a16) |
 | 로그인                                                 | 메인                                                             |
 | ![Nov-07-2023 17-32-29](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/63e36829-3a5b-4cfe-9eda-1b87a68bcb26) |  ![main](https://github.com/13ook/13ook/assets/142865132/b66d73e9-3310-4af1-8e1b-75d83d49bf5e)
  |
