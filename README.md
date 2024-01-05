@@ -49,8 +49,8 @@
 | ![Nov-07-2023 17-39-21](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/1172aba5-9e29-4e44-a67d-4dd638026b83) |  ![Nov-07-2023 17-41-42](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/83ea5fbb-4172-4ada-9a86-8b1d0545792c) |
 | 도서정보 보기                                         | 댓글 등록                                                       |
 | ![Nov-07-2023 17-43-23](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/4083ca40-411a-47c9-9433-ccbbc4c0a4ea) | ![Nov-07-2023 17-44-50](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/b4a52684-4c36-44fd-8f70-437747654841)|
-| 내정보 수정                                            | 내 서재                                                                 |
-| ![Nov-07-2023 17-47-04](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/64927e54-84aa-4b76-a577-df4da18717ed) | ![Nov-07-2023 17-48-11](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/68c5e87c-b124-4333-bc53-7b307f2adef7) |
+| 책방                                              | 내 서재                                                                 |
+| ![books](https://github.com/13ook/13ook/assets/142865132/f3fb2d39-e728-45d3-98dc-37622db0c16b) | ![Nov-07-2023 17-48-11](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/68c5e87c-b124-4333-bc53-7b307f2adef7) |
 | 유저검색                                               | 팔로우                                                               |
 | ![Nov-08-2023 10-17-54](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/a9d21cff-fb10-4042-9c6b-ec1cb4d7b388) | ![Nov-07-2023 17-50-22](https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/507d917c-1bd1-476f-bf04-9f49925026a3) |
 
