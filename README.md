@@ -45,7 +45,7 @@
 
 | 로그인                                                 | 메인                                                             |
 | ------------------------------------------------------ | ----------------------------------------------------------------- |
-| <img src="https://github.com/FRONTENDSCHOOL7/final-13-read-we/assets/138555225/63e36829-3a5b-4cfe-9eda-1b87a68bcb26" width="350"> | <img src="https://github.com/13ook/13ook/assets/142865132/b66d73e9-3310-4af1-8e1b-75d83d49bf5e" width="350"> |
+| <img src="https://github.com/wkd6262/wkd6262.github.io/assets/142865132/eeeb82dd-1ccd-4643-9e19-876d05a35dce" width="350"> | <img src="https://github.com/13ook/13ook/assets/142865132/b66d73e9-3310-4af1-8e1b-75d83d49bf5e" width="350"> |
 | 피드                                             | 검색                                                     |
 | <img src="https://github.com/13ook/13ook/assets/142865132/48ef9e93-5e63-46e1-b51e-94ab10d2bbac" width="350"> | <img src="https://github.com/13ook/13ook/assets/142865132/e35289f5-ab5e-4143-86d3-978995fd67cf" width="350"> |
 | 책방                                              | 내 서재                                                                 |
