@@ -27,7 +27,9 @@
 ### - 고려사항
 |FrontEnd|BackEnd|Data-Base|
 |---|---|---|
-|- 언어: JavaScript (React) - 프레임워크: React.js - 모듈화된 CSS인 module.css 사용|- Node.js, Express, Axios 활용한 서버 개발 - 엔드포인트, GET 및 POST 메소드 이해 - mongoDB 연결을 통한 데이터 저장|- CORS 이슈 해결 및 데이터베이스 통신 원활하게 - Open API 사용법 숙지 및 데이터 가공 후 내보내기 계획
+|- 언어: JavaScript (React) |- 프레임워크: React.js - 모듈화된 CSS인 module.css 사용|
+|- Node.js, Express, Axios 활용한 서버 개발 - 엔드포인트, GET 및 POST 메소드 이해 |
+|- mongoDB 연결을 통한 데이터 저장|- CORS 이슈 해결 및 데이터베이스 통신 원활하게 - Open API 사용법 숙지 및 데이터 가공 후 내보내기 계획|
 
 
 ### - 팀원 소개
