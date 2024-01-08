@@ -10,11 +10,6 @@
 <p>자신이 읽은 책에 대해 종이와 펜이 없더라도 언제 어디서든 편히 생각을 기록할 수 있으며,
 도서별 짧은 리뷰와 책 속 명언을 적을 수 있는 하이라이트 페이지를 통해 다양하게 활용할 수 있는 서비스 입니다.</p>
 
-### - 사전조사
-|북적북적 ui/ux 기능 참고 |밀리의 서재 ui/ux ,기능 참고|북모리 ui/ux 기능 참고|
-|---|---|---|
-|![Untitled (1)](https://github.com/13ook/13ook/assets/142865132/1b29fc9e-adfa-4db3-bf86-22557359d777)|![Untitled](https://github.com/13ook/13ook/assets/142865132/2ab59fb2-256a-46d0-ad90-361da5511942)|![Untitled (2)](https://github.com/13ook/13ook/assets/142865132/fc83f705-134f-41ae-988a-6f735dace5a5)
-
 <h4>🌟  프로젝트 목표</h4>
 
 ```
@@ -23,6 +18,23 @@
   [🧾] 출력 된 값을 통해 도서를 기록, 저장한다.
   [📔] 도서 기록 시 닉네임, 작성 시간, 한 줄 리뷰, 책표지를 보여주는 화면을 출력한다.
 ```
+### - 사전조사
+|북적북적 ui/ux 기능 참고 |밀리의 서재 ui/ux ,기능 참고|북모리 ui/ux 기능 참고|
+|---|---|---|
+|![Untitled (1)](https://github.com/13ook/13ook/assets/142865132/1b29fc9e-adfa-4db3-bf86-22557359d777)|![Untitled](https://github.com/13ook/13ook/assets/142865132/2ab59fb2-256a-46d0-ad90-361da5511942)|![Untitled (2)](https://github.com/13ook/13ook/assets/142865132/fc83f705-134f-41ae-988a-6f735dace5a5)
+
+
+### - 고려사항
+|FrontEnd|BackEnd|Data-Base|
+|---|---|---|
+|- 언어: JavaScript (React)
+- 프레임워크: React.js
+- 모듈화된 CSS인 module.css 사용|- Node.js, Express, Axios 활용한 서버 개발
+- 엔드포인트, GET 및 POST 메소드 이해
+- mongoDB 연결을 통한 데이터 저장|- CORS 이슈 해결 및 데이터베이스 통신 원활하게
+- Open API 사용법 숙지 및 데이터 가공 후 내보내기 계획
+
+
 ### - 팀원 소개
 |장원준|권지민|김민재|
 |---|---|---|
