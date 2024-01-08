@@ -10,6 +10,22 @@
 <p>자신이 읽은 책에 대해 종이와 펜이 없더라도 언제 어디서든 편히 생각을 기록할 수 있으며,
 도서별 짧은 리뷰와 책 속 명언을 적을 수 있는 하이라이트 페이지를 통해 다양하게 활용할 수 있는 서비스 입니다.</p>
 
+### - 사전조사
+
+- 북적북적 ui/ux,기능 참고
+    
+    ![Untitled (1)](https://github.com/13ook/13ook/assets/142865132/1b29fc9e-adfa-4db3-bf86-22557359d777)
+    
+
+- 밀리의 서재 ui/ux ,기능 참고
+    
+    ![Untitled](https://github.com/13ook/13ook/assets/142865132/2ab59fb2-256a-46d0-ad90-361da5511942)
+    
+
+- 북모리 ui/ux 기능 참고
+    
+    ![Untitled (2)](https://github.com/13ook/13ook/assets/142865132/fc83f705-134f-41ae-988a-6f735dace5a5)
+
 <h4>🌟  프로젝트 목표</h4>
 
 ```
