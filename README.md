@@ -60,7 +60,7 @@
 
 | 로그인                                                 | 메인                                                             |
 | ------------------------------------------------------ | ----------------------------------------------------------------- |
-| <img src="https://github.com/wkd6262/wkd6262.github.io/assets/142865132/eeeb82dd-1ccd-4643-9e19-876d05a35dce" height="350" width="350"> | <img src="https://github.com/13ook/13ook/assets/142865132/b66d73e9-3310-4af1-8e1b-75d83d49bf5e" width="350"> |
+| <center><img src="https://github.com/wkd6262/wkd6262.github.io/assets/142865132/eeeb82dd-1ccd-4643-9e19-876d05a35dce" height="350"></center> | <img src="https://github.com/13ook/13ook/assets/142865132/b66d73e9-3310-4af1-8e1b-75d83d49bf5e" width="350"> |
 | 피드                                             | 검색                                                     |
 | <img src="https://github.com/13ook/13ook/assets/142865132/48ef9e93-5e63-46e1-b51e-94ab10d2bbac" width="350"> | <img src="https://github.com/13ook/13ook/assets/142865132/e35289f5-ab5e-4143-86d3-978995fd67cf" width="350"> |
 | 책방                                              | 내 서재                                                                 |
@@ -366,6 +366,10 @@
     - 마무리 작업 중 디자인에 대해 개선해야할 점을 파악하여 수정
 </details>
 
-<a href="https://www.canva.com/design/DAF3mOtQdXU/ijg6ojOI_cydSub4Av5riA/view?utm_content=DAF3mOtQdXU&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">###🎈PPT 바로가기</a>
+<a href="https://www.canva.com/design/DAF3mOtQdXU/ijg6ojOI_cydSub4Av5riA/view?utm_content=DAF3mOtQdXU&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
+  <h3 style="font-size: 24px;">🎈PPT 바로가기</h3>
+</a>
 
-<a href="https://port-0-back-5r422alqn1n0hw.sel4.cloudtype.app/" target="_blank">###✨프로젝트 바로가기</a> (매일 새벽에 서버가 꺼짐.)
+<a href="https://port-0-back-5r422alqn1n0hw.sel4.cloudtype.app/" target="_blank">
+  <h3 style="font-size: 24px;">✨프로젝트 바로가기 (매일 새벽에 서버가 꺼짐)</h3>
+</a>
