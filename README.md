@@ -366,7 +366,7 @@
     - 마무리 작업 중 디자인에 대해 개선해야할 점을 파악하여 수정
 </details>
 
-[###🎈PPT 바로가기](https://www.canva.com/design/DAF3mOtQdXU/ijg6ojOI_cydSub4Av5riA/view?utm_content=DAF3mOtQdXU&utm_campaign=designshare&utm_medium=link&utm_source=editor){:style="font-size: 24px;" target="_blank"}
+### [🎈PPT 바로가기](https://www.canva.com/design/DAF3mOtQdXU/ijg6ojOI_cydSub4Av5riA/view?utm_content=DAF3mOtQdXU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-[###✨프로젝트 바로가기](https://port-0-back-5r422alqn1n0hw.sel4.cloudtype.app/){:style="font-size: 24px;" target="_blank"} (매일 새벽에 서버가 꺼짐.)
+### [✨프로젝트 바로가기](https://port-0-back-5r422alqn1n0hw.sel4.cloudtype.app/)(매일 새벽에 서버가 꺼짐.)
 
